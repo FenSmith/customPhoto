@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  customPhoto
+//
+//  Created by tangwei on 17/1/17.
+//  Copyright © 2017年 tangwei. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Public_Macro.h"
+//#import "Masonry.h"
+#import "YxCredit_UtilHelper.h"
+
+#endif /* PrefixHeader_pch */
